@@ -1303,7 +1303,10 @@ body {
     padding: 40px 42px 4px 43px;
   }
 
-  .elim2 { display: none; }
+  .elim2 {
+    display: none;
+    position: absolute;
+  }
 
   .burger-menu {
     position: relative;
